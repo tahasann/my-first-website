@@ -10,3 +10,11 @@ img{
     width: 200px;
     display: block;
 }
+video{
+    al: center;
+    display: inline;
+    margin: 10px;
+    border: 12px solid pink;
+    width: 400;
+    display: block;
+}
